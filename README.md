@@ -12,6 +12,7 @@ $ git clone https://github.com/yes333/CalcDist.git
 ## Usage
 
 $ cd CalcDist
+
 $ python CalcDist.py [n]
 
 if the argument n, a positive number, is given, the script randomly chooses n locations from the file, calculate distance between all location pairs, and print the list with ascending distance.
