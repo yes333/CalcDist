@@ -7,6 +7,7 @@ which are stored in the file named 'places.csv'.
 
 Clone the python script and related files from GitHub:
 
+$ git clone https://github.com/yes333/CalcDist.git
 
 ## Usage
 
